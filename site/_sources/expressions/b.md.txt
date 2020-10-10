@@ -1,0 +1,13 @@
+(b-expr)=
+
+# B
+
+```{glossary}
+
+bout à bout
+    1. Se dit en parlant de certaines choses qui sont jointes par leurs extrémités.
+    2. (Figuré)(Familier) Se dit en parlant de l'énumeration et de l'assemblage de certaines chose, qui ne sont presque rien à les prendre séparément, mais qui forment un tout considérable, si on les réunit.
+    
+    Source : [bout à bout — Wiktionnaire](https://fr.wiktionary.org/wiki/bout_%C3%A0_bout)
+
+```

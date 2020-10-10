@@ -1,0 +1,20 @@
+
+# Guide de Français
+
+
+```{toctree}
+:maxdepth: 2
+:caption: Contenu
+
+un
+deux
+trois
+```
+
+
+{term}`bout à bout` qui se trouve dans l'entrée {ref}`b`
+
+## Indices et tableaux
+
+* {ref}`genindex`
+* {ref}`search`

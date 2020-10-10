@@ -1,0 +1,6 @@
+(d-expr)=
+
+# D
+
+```{glossary}
+```

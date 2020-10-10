@@ -1,0 +1,6 @@
+(t-expr)=
+
+# T
+
+```{glossary}
+```
